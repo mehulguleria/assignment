@@ -1,2 +1,2 @@
-this file is for feature2 testing.
-it is only for feature2 in branch feature 2.
+file 2 is changed for testing purpose.
+
